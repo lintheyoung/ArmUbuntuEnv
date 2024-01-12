@@ -25,6 +25,8 @@ python3 setup.py install
 
 ### Install h5py(h5py-2.10.0 as example)
 
+pip install cython==0.29.21
+
 get source file from [link](https://pypi.org/project/h5py)
 
 ```bash
